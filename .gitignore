@@ -132,3 +132,9 @@ dmypy.json
 # Data
 /csv
 /datasets
+/tableau_data
+
+#dashboard
+*.twb
+*.twbx
+*.twbr
